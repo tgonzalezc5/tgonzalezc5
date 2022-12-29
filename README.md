@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @tgonzalezc5
+- 👋 Hi, I’m Teo. 
 - 👀 I’m interested in ... family + friends, going out, sports, and coming up with new ideas.
-- 🌱 I’m currently learning ... everything.
-- 💞️ I’m looking to collaborate on ... redefining the future of work.
+- 🌱 I’m currently learning ... the basics with Nucamp.
 - 📫 How to reach me ... teodorolgonzalez5@gmail.com
 
 <!---
